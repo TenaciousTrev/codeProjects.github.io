@@ -1,0 +1,35 @@
+/*body {
+    background-image: url(images/background/italyamalfi.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.containter {
+    max-width: 80%;
+}*/
+
+table {
+    margin: auto;
+    padding: auto;
+    width: 70%;
+    text-align: center;
+}
+
+td.element {
+    margin: auto;
+    padding: auto;
+    border: 1px green solid;
+    border-radius: 5px;
+}
+
+td.element:hover {
+    color: white;
+    background-color: black;
+    border: 1px red solid;
+}
+
+a.nodecoration {
+    text-decoration: none;
+    color: inherit;
+}
